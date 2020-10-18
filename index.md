@@ -1,6 +1,5 @@
 ---
 title: Performances
-layout: default
 ---
 
 # {{ page.title }}
