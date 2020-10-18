@@ -4,13 +4,12 @@ title: Performances
 
 # {{ page.title }}
 
-| Date               | Description                                 | Duration [h] |
-|:------------------ |:------------------------------------------- |:------------ |
-| Oct 13th 2020      | Preparing myself/looking into the code      | 1.0          |
-| ------------------ | ------------------------------------------- | ------------ |
-| Oct 18th 2020      | Setting up PC with Microsoft Teams          | 1.0          |
-|                    | Setting up program for sketches during call; installing IDE for showing the code; import last version of code | |
-| ------------------ | ------------------------------------------- | ------------ |
+| Date               | Description                                                                                                                                       | Duration [h] |
+|:------------------ |:------------------------------------------------------------------------------------------------------------------------------------------------- |:------------ |
+| Oct 13th 2020      | Preparing myself/looking into the code                                                                                                            | 1.0          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Oct 18th 2020      | Setting up PC with Microsoft Teams; setting up program for sketches during call; installing IDE for showing the code; import last version of code | 1.0          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 
 * * *
 
