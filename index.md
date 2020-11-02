@@ -10,8 +10,9 @@ title: Performances
 | Oct 20th 2020 | 1st call: Introduction to terminology; introduction to drawing algorithm      | 1.5          |
 | Oct 22th 2020 | 2nd call: Iterative Algorithm for calculating the skeleton on simple case     | 1.5          |
 | Oct 27th 2020 | 3rd call: Hold- and build sections introduction                               | 1.5          |
-|               | **Accumulated hours**                                                         | **5.5**      |
+| Oct 29th 2020 | 4rd call: Going through build-section; Introduction to error models           | 1.5          |
+|               | **Accumulated hours**                                                         | **7.0**      |
 
 * * *
 
-Last updated on Oct 27th 2020
+Last updated on Nov 2nd 2020
