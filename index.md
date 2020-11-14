@@ -12,8 +12,9 @@ title: Performances
 | Oct 27th 2020 | 3rd call: Hold- and build sections introduction                               | 1.5          |
 | Oct 29th 2020 | 4th call: Going through build-section; Introduction to error models           | 1.5          |
 | Nov  5th 2020 | 5th call: Details of Error-model and displacement-transformations             | 1.5          |
-|               | **Accumulated hours**                                                         | **8.5**      |
+| Nov 12th 2020 | 6th call: Complete error models and analysis and discuss further actions      | 1.5          |
+|               | **Accumulated hours**                                                         | **10**       |
 
 * * *
 
-Last updated on Nov 7th 2020
+Last updated on Nov 14th 2020
